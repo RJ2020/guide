@@ -8,7 +8,7 @@ Acceptance testing, a testing technique performed to determine whether or not th
 
 There are various forms of acceptance testing:
 
-->User acceptance Testing
+
 
 ->Business acceptance Testing
 
